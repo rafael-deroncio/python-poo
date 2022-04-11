@@ -1,0 +1,2 @@
+# Introdução
+Python se difere bastante de outras linguagens de programação que tem suporte, ou que são totalmente voltadas a orientação a objetos. Este post é um pequeno guia com alguns detalhes da linguagem voltados para esse paradigma.

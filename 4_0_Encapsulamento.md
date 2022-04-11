@@ -1,0 +1,3 @@
+# Encapsulamento
+O encapsulamento é um dos pilares da orientação a objetos. Serve para proteger dados da classe. Encapsular os dados de uma aplicação significa evitar que estes sofram acessos indevidos.
+Para isso, é criada uma estrutura onde são usados modificadores como `public`, `protected`, `private` para restringir o acesso a esses dados. E métodos que podem ser utilizados por qualquer outra classe, sem causar inconsistências no desenvolvimento comumente chamados __getters__ e __setters__.
